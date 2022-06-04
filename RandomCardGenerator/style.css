@@ -1,0 +1,28 @@
+body{ 
+    background-color: green;
+}
+
+.card{ 
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 150px;
+    height: 200px;
+}
+
+#card-header{
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 5%;
+ }
+
+#card-body{
+    text-align: center;
+    margin-top: 45%;
+}
+
+#card-footer{
+    text-align: right;
+    margin-top: 50%;
+    margin-right: 5%;
+}
